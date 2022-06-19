@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "https://josepalaci0.github.io/csb-pkpu9b/static/css/main.5d53a2d3.chunk.css",
+    "main.js": "https://josepalaci0.github.io/csb-pkpu9b/static/js/main.187522c6.chunk.js",
+    "main.js.map": "https://josepalaci0.github.io/csb-pkpu9b/static/js/main.187522c6.chunk.js.map",
+    "runtime-main.js": "https://josepalaci0.github.io/csb-pkpu9b/static/js/runtime-main.082e3d47.js",
+    "runtime-main.js.map": "https://josepalaci0.github.io/csb-pkpu9b/static/js/runtime-main.082e3d47.js.map",
+    "static/js/2.1bd60886.chunk.js": "https://josepalaci0.github.io/csb-pkpu9b/static/js/2.1bd60886.chunk.js",
+    "static/js/2.1bd60886.chunk.js.map": "https://josepalaci0.github.io/csb-pkpu9b/static/js/2.1bd60886.chunk.js.map",
+    "index.html": "https://josepalaci0.github.io/csb-pkpu9b/index.html",
+    "static/css/main.5d53a2d3.chunk.css.map": "https://josepalaci0.github.io/csb-pkpu9b/static/css/main.5d53a2d3.chunk.css.map",
+    "static/js/2.1bd60886.chunk.js.LICENSE.txt": "https://josepalaci0.github.io/csb-pkpu9b/static/js/2.1bd60886.chunk.js.LICENSE.txt",
+    "static/media/dowload.1f6ea9dc.png": "https://josepalaci0.github.io/csb-pkpu9b/static/media/dowload.1f6ea9dc.png",
+    "static/media/email.1a41b730.png": "https://josepalaci0.github.io/csb-pkpu9b/static/media/email.1a41b730.png",
+    "static/media/fotoperfil.ca06e98d.png": "https://josepalaci0.github.io/csb-pkpu9b/static/media/fotoperfil.ca06e98d.png",
+    "static/media/llamada-telefonica.f7a873cb.png": "https://josepalaci0.github.io/csb-pkpu9b/static/media/llamada-telefonica.f7a873cb.png",
+    "static/media/localizacion.cf54f981.png": "https://josepalaci0.github.io/csb-pkpu9b/static/media/localizacion.cf54f981.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.082e3d47.js",
+    "static/js/2.1bd60886.chunk.js",
+    "static/css/main.5d53a2d3.chunk.css",
+    "static/js/main.187522c6.chunk.js"
+  ]
+}
